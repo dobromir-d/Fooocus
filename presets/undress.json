@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v10.safetensors",
+    "default_model": "undressav05.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -30,7 +30,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label, clothed, clothes, dressed, dress",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Photograph",
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v10.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v10.safetensors"
+        "realisticStockPhoto_v10.safetensors": "https://huggingface.co/Bugsys0302/undressav05/tree/main/undressav05.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
