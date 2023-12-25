@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v10.safetensors": "https://huggingface.co/Bugsys0302/undressav05/tree/main/undressav05.safetensors"
+        "realisticStockPhoto_v10.safetensors": "https://huggingface.co/Bugsys0302/undressav05/resolve/main/undressav05.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
