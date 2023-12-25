@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v10.safetensors": "https://civitai.com/models/35879/breasts-undress"
+        "undressav05.safetensors": "https://civitai.com/models/35879/breasts-undress"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
