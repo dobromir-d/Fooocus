@@ -18,5 +18,5 @@
     "checkpoint_downloads": {
         "awesome.safetensors": "https://civitai.com/api/download/models/15640"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {}
 }
