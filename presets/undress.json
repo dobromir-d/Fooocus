@@ -19,7 +19,4 @@
         "awesome.safetensors": "https://civitai.com/api/download/models/15640"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
-    }
 }
