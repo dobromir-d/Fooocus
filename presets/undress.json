@@ -2,28 +2,6 @@
     "default_model": "awesome.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
-    "default_loras": [
-        [
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
-        ],
-        [
-            "None",
-            1.0
-        ],
-        [
-            "None",
-            1.0
-        ],
-        [
-            "None",
-            1.0
-        ],
-        [
-            "None",
-            1.0
-        ]
-    ],
     "default_cfg_scale": 3.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
@@ -42,6 +20,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://civitai.com/api/download/models/15640"
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     }
 }
