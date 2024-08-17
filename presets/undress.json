@@ -16,7 +16,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "awesome.safetensors": "https://civitai.com/api/download/models/15640"
+        "awesome.safetensors": "https://civitai.com/api/download/models/15640?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {}
 }
